@@ -7,7 +7,7 @@ This repository is part of the paper: BioMag 1: A Magnetic Approach for Efficien
   
   ESP32 Multitasking Code for the whole system control including variables: Temperature, magnetic field, pH, and agitation. 
   
-## Plans:
+## Drawings:
 
   Mechanical parts for the 3D printed parts
 
